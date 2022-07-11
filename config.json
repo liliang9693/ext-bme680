@@ -1,0 +1,27 @@
+{
+  "name": {
+    "zh-cn": "Gravity: BME680环境传感器",
+    "en": " BME680 "
+  },
+  "description": {
+    "zh-cn": "SEN0248：可测量VOC、温度、湿度、气压，适用于环境检测应用",
+    "en": " BME680"
+  },
+  "author": "liliang",
+  "email": "969316753@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "bme680",
+  "version": "0.0.1",
+  "platform": ["win"],
+  "asset": {
+    "python": {
+        "dir": "python/",
+        "main": "main.ts",
+        "version": "0.0.1",
+        "dependencies": {
+                  "pinpong":"0.4.9"
+        }
+      }
+  }
+}

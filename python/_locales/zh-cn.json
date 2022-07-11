@@ -1,0 +1,14 @@
+{
+    "bme680.bme680_init|block": "初始化BME680环境传感器" ,
+    "bme680.bme680_get_data|block": "传感器有数据？" ,
+    "bme680.bme680_read_data|block": "获取BME680传感器[DAT] " ,
+
+    "bme680.DAT.temperature|menu": "温度（℃）",
+    "bme680.DAT.pressure|menu": "气压(Pa)",
+    "bme680.DAT.humidity|menu": "湿度(%rh)",
+    "bme680.DAT.altitudu|menu": "海拔(m)",
+    "bme680.DAT.gas_resistance|menu": "气体电阻值(ohm)"
+    
+    
+     
+}

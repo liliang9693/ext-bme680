@@ -1,0 +1,11 @@
+{
+	"DAT": {
+		"menu": [
+			["temperature", "temperature"], 
+			["pressure", "pressure"],
+			["humidity", "humidity"], 
+			["altitudu", "altitudu "],
+			["gas_resistance" ,"gas_resistance "]
+			
+		]	}
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
